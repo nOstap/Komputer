@@ -1,0 +1,28 @@
+{
+  "name": "komuter",
+  "version": "1.0.0",
+  "description": "Voice recognition windows command runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nOstap/Komputer.git"
+  },
+  "keywords": [
+    "voice",
+    "recognition",
+    "commands",
+    "task",
+    "runner",
+    "google",
+    "speech"
+  ],
+  "author": "Adam Ostapkiewicz",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/nOstap/Komputer/issues"
+  },
+  "homepage": "https://github.com/nOstap/Komputer#readme"
+}
